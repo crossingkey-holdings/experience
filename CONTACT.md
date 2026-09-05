@@ -1,10 +1,11 @@
 # Contact
 
-## Jeremy Paul Allen
-Founder & AI Systems Architect  
-CrossingKey Intelligence
+Jeremy Paul Allen
 
-Website: https://crossingkeyintelligence.com  
-Email: founder@crossingkeyintelligence.com
+Online handle: `crossingkey_`
 
-Contact for contract engineering, AI automation, agent architecture, platform development, OCI/GCP/Cloudflare infrastructure, Shopify/agent-compatible commerce, technical collaboration, private repository review, and commercial implementation.
+Founder, CrossingKey Intelligence
+
+Website: https://crossingkeyintelligence.com
+
+GitHub: https://github.com/crossingkey-holdings

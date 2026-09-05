@@ -1,38 +1,57 @@
-# Jeremy Paul Allen
+# Jeremy Paul Allen / crossingkey_
 
-## Founder & AI Systems Architect
+## AI Systems Architect · Human–AI Interaction Designer · Automation Builder
 
-Founder of **CrossingKey Intelligence**.
+This repository is the canonical public review surface for my work at CrossingKey Intelligence. It is organized for employers, contract teams, technical partners, and acquisition or diligence reviewers who need a fast, evidence-oriented view of what I design, build, operate, and document.
 
-**AI Agents • Governed Automation • Agentic Systems • Tool Orchestration • API Integration • Cloud Infrastructure • Commerce Systems • Full-Stack Engineering • Technical Research**
+I work across AI agent systems, human–AI interaction, governed automation, local AI, cloud and API infrastructure, commerce systems, developer tooling, verification, and technical documentation.
 
-I design and build systems that turn AI capability into controlled, observable, and verifiable execution.
+My strongest focus is the layer between human intent and machine execution: context, permissions, state, tool use, failure handling, observability, verification, and human authority.
 
-My work focuses on permissions, commands, tools, state, validation, resource limits, execution evidence, operator visibility, human escalation, deployment, and commercial integration.
+> **Core engineering principle:** Capability does not imply authority.
 
-The objective is not autonomy for its own sake. The objective is **useful AI execution that remains governed**.
+## Review in 10 minutes
 
-## Professional Focus
+1. Read [REVIEWER-GUIDE.md](REVIEWER-GUIDE.md).
+2. Read [PROJECTS.md](PROJECTS.md).
+3. Read [EXPERIENCE.md](EXPERIENCE.md).
+4. Read [docs/GOVERNED-EXECUTION.md](docs/GOVERNED-EXECUTION.md).
+5. Read [TECHNICAL-SKILLS.md](TECHNICAL-SKILLS.md).
+6. Review the public repositories and live systems linked below.
 
-AI agent infrastructure, governed automation, internal tools, API-connected applications, agent-compatible commerce, SaaS/platform components, OCI/GCP/Cloudflare/Linux infrastructure, Shopify integrations, local/private AI deployments, technical modernization, and verification/release engineering.
-
-## Current Production Work
+## Selected public proof
 
 ### CrossingKey Exchange
 
-A production agent-compatible commerce interface that accepts natural-language buyer intent, searches only the CrossingKey merchant catalog, and connects the customer to Shopify cart and checkout flows.
+Production agent-compatible commerce interface connecting natural-language buyer intent to merchant-scoped product discovery and Shopify checkout.
 
-Production: https://exchange.crossingkeyintelligence.com  
-Company: https://crossingkeyintelligence.com
+- Production: https://exchange.crossingkeyintelligence.com
+- Company: https://crossingkeyintelligence.com
 
-## Selected Systems
+### Public engineering repositories
 
-CrossingKey Exchange, Agentic OS, CCMB, NavigatorFS, EdgeNode-X, `.xkey`, Terminal Control, publication and verification tooling, and commerce remediation systems.
+- https://github.com/crossingkey-holdings/crossingkey-open-specifications
+- https://github.com/crossingkey-holdings/crossingkey-developer-documentation
+- https://github.com/crossingkey-holdings/crossingkey-web-experience
+- https://github.com/crossingkey-holdings/crossingkey-design-language
+- https://github.com/crossingkey-holdings/crossingkey-public-research
 
-Some implementations are public. Commercial source, internal infrastructure, private operations, and unreleased research remain private. See `PRIVATE-ACCESS.md`.
+## What this repo demonstrates
 
-## Core Engineering Principle
+- Human–AI interaction and context architecture
+- Agent/tool orchestration and governed execution
+- AI output evaluation, correction, and failure diagnosis
+- Python, JavaScript/TypeScript, Linux, terminal automation, APIs, and Git/GitHub workflows
+- Cloudflare, OCI/GCP-oriented infrastructure work, commerce integrations, and local/private AI systems
+- Documentation, release structure, checksums, manifests, and verification practices
+- Product architecture and conversion of technical systems into commercial assets
 
-**Capability does not imply authority.**
+## Public-safety boundary
 
-Production agentic execution requires capability, authority, boundaries, observability, verification, resource control, and human authority.
+This repository contains reviewable evidence, architecture, documentation, and public links. Credentials, customer information, private source, security-sensitive configuration, unreleased research, and proprietary operational material remain outside the public surface.
+
+For deeper technical, contract, partnership, or acquisition diligence, see [PRIVATE-ACCESS.md](PRIVATE-ACCESS.md).
+
+## Contact
+
+See [CONTACT.md](CONTACT.md).

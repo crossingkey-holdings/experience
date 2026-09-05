@@ -1,24 +1,18 @@
 # Professional Experience
 
 ## CrossingKey Intelligence
-### Founder & AI Systems Architect | 2025–Present
+### Founder & AI Systems Architect | June 2025–Present
 
-Founded CrossingKey Intelligence and developed an independent portfolio spanning AI systems architecture, agent engineering, automation, cloud infrastructure, commerce systems, developer tooling, local AI, technical documentation, and release engineering.
+Founded CrossingKey Intelligence and developed an independent portfolio spanning AI systems architecture, human–AI interaction, agent engineering, automation, cloud infrastructure, commerce systems, developer tooling, local AI, technical documentation, and release engineering.
 
-Work includes AI systems architecture, command agents, tool orchestration, local AI, API integration, Python, JavaScript, Linux automation, OCI/GCP infrastructure work, Cloudflare Workers/Pages/WAF/DNS/KV/D1, Shopify, UCP/MCP commerce integration, Git/GitHub, production deployment, validation, technical research, release engineering, product architecture, and stakeholder/resource management.
+Current work includes tool orchestration, local AI, API integration, Python, JavaScript/TypeScript, Linux automation, Cloudflare, OCI/GCP-oriented infrastructure, Shopify and payment integrations, Git/GitHub, production deployment, validation, technical research, product architecture, and release engineering.
 
-## Critical Development Through 2025
+A major focus is operational AI: how instructions and state persist, when agents may invoke tools, how command execution is bounded, how failures are retried, how completion is verified, how resource authority is represented, and how humans retain final authority.
 
-2025 was the period when my work moved from primarily using AI models to engineering systems around AI.
+## Independent study and development
 
-The central questions became operational: how instructions and state should persist, when agents may invoke tools, how command execution should be bounded, how failures should be retried, how completion should be verified, how resource authority should be represented, and how external content should be prevented from becoming unauthorized instructions.
+Self-directed study and applied development in AI systems, software architecture, interaction design, automation, infrastructure, product development, and technical documentation since 2024.
 
-The work increasingly converged on one problem:
+## Education
 
-**How can capable AI systems perform useful actions while remaining bounded, observable, verifiable, and subordinate to legitimate operator authority?**
-
-## Operating Context
-
-CrossingKey Intelligence was developed without external project funding during substantial technical, financial, environmental, and interpersonal pressure.
-
-The professional significance is the operating discipline required to continue building while protecting scarce resources, prioritizing competing demands, separating authorized work from unaffordable work, and maintaining technical continuity without the support structure of a funded engineering organization.
+GED, 2009.

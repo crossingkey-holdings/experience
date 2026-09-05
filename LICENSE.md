@@ -1,7 +1,5 @@
-# Repository Notice
+# License
 
-Copyright © 2026 Jeremy Paul Allen / CrossingKey Intelligence.
+Unless a file states otherwise, documentation in this repository is provided for review and reference purposes.
 
-Published for professional reference, portfolio review, and evaluation.
-
-Unless a specific file states otherwise, no license to proprietary CrossingKey software is granted and no permission for commercial reuse of proprietary architecture or private source is granted.
+No license is granted to proprietary software, trademarks, private source, commercial systems, or unreleased intellectual property by inclusion of descriptive material in this repository.

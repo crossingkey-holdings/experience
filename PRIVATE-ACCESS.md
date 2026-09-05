@@ -1,9 +1,5 @@
-# Private Repository & Technical Review Access
+# Private Diligence Access
 
-Selected CrossingKey implementations remain private because they may contain proprietary architecture, commercial product source, internal automation, infrastructure configuration, operational tooling, or unreleased research.
+Some of the strongest CrossingKey work is intentionally private because it contains commercial source, internal infrastructure, unreleased research, or security-sensitive implementation detail.
 
-Prospective clients, employers, collaborators, and qualified technical reviewers may request selected access.
-
-Include your name, organization, professional contact information, project/repository of interest, purpose of review, and expected scope.
-
-Access is discretionary and does not transfer ownership, licensing, redistribution, or intellectual-property rights.
+For serious employment, contract, partnership, investment, or acquisition diligence, a deeper review package can be assembled with appropriate scope and access controls.
