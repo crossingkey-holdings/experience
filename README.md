@@ -16,8 +16,9 @@ My strongest focus is the layer between human intent and machine execution: cont
 2. Read [PROJECTS.md](PROJECTS.md).
 3. Read [EXPERIENCE.md](EXPERIENCE.md).
 4. Read [docs/GOVERNED-EXECUTION.md](docs/GOVERNED-EXECUTION.md).
-5. Read [TECHNICAL-SKILLS.md](TECHNICAL-SKILLS.md).
-6. Review the public repositories and live systems linked below.
+5. Read [EVIDENCE.md](EVIDENCE.md).
+6. Run or inspect [VERIFICATION.md](VERIFICATION.md).
+7. Read [TECHNICAL-SKILLS.md](TECHNICAL-SKILLS.md) and the linked public repositories.
 
 ## Selected public proof
 
@@ -43,7 +44,7 @@ Production agent-compatible commerce interface connecting natural-language buyer
 - AI output evaluation, correction, and failure diagnosis
 - Python, JavaScript/TypeScript, Linux, terminal automation, APIs, and Git/GitHub workflows
 - Cloudflare, OCI/GCP-oriented infrastructure work, commerce integrations, and local/private AI systems
-- Documentation, release structure, checksums, manifests, and verification practices
+- Documentation, release structure, checksums, manifests, executable tests, and reproducible verification
 - Product architecture and conversion of technical systems into commercial assets
 
 ## Public-safety boundary
@@ -53,5 +54,7 @@ This repository contains reviewable evidence, architecture, documentation, and p
 For deeper technical, contract, partnership, or acquisition diligence, see [PRIVATE-ACCESS.md](PRIVATE-ACCESS.md).
 
 ## Contact
+
+Business inquiries: founder@crossingkeyintelligence.com
 
 See [CONTACT.md](CONTACT.md).

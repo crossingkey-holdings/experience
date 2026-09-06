@@ -1,14 +1,19 @@
-# Verification Standard
+# Verification
 
-This repository distinguishes:
+This repository ships with a small reproducible verification surface.
 
-- **DESIGNED** — architecture or workflow specified.
-- **IMPLEMENTED** — working implementation exists.
-- **TESTED** — defined testing performed.
-- **DEPLOYED** — running in an operating environment.
-- **VERIFIED** — external/read-back evidence confirms the claimed operation.
-- **PRODUCTION** — actively available for intended use.
+Run from the repository root:
 
-These terms are not interchangeable.
+```bash
+bash scripts/verify.sh
+```
 
-Evidence may include source code, public repository history, deployment receipts, builds, checksums, manifests, API responses, health checks, screenshots, smoke tests, read-back validation, transaction-flow verification, or sanitized delivery artifacts.
+The verifier checks:
+
+1. Python sample syntax.
+2. Five behavioral tests for authorization, success, retry, exhaustion, and receipt state.
+3. Relative Markdown links inside the repository.
+4. The SHA-256 manifest for every tracked package file except the manifest itself.
+5. Absence of packaged Python bytecode and `__pycache__` directories.
+
+A passing run verifies this public package only. It does not independently prove external production availability, private infrastructure behavior, or historical deployment claims.
